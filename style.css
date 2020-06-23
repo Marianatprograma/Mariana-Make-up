@@ -1,0 +1,27 @@
+body{
+    background: rgb(129, 233, 129);
+}
+.caja_contenedor{
+    background: rgb(235, 150, 192);
+    width: 1000px;
+    padding: 20px;
+    
+
+}
+.caja1{
+    background: rgb(190, 136, 228);
+    width: 100px;
+    height: 80px;
+    padding: 80px;
+    overflow: scroll;
+    display: inline-block;
+
+
+}
+.subcajas{
+    background: khaki;
+    width: 100px;
+    height: 60px;
+    padding: 80px;
+    
+}
